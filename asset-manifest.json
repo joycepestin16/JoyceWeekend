@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e40193b.css",
+    "main.js": "/static/js/main.9f20bd53.js",
+    "static/js/787.aa5b4515.chunk.js": "/static/js/787.aa5b4515.chunk.js",
+    "static/media/memorial.jpg": "/static/media/memorial.ca447611c2844147d5bd.jpg",
+    "static/media/pizza.jpg": "/static/media/pizza.48fa0d624abe32959727.jpg",
+    "static/media/home.jpg": "/static/media/home.ff08c19021645aaca27e.jpg",
+    "static/media/bg.jpg": "/static/media/bg.53011d557cb55e29a011.jpg",
+    "static/media/travel.jpg": "/static/media/travel.a6f93d7105242d85e523.jpg",
+    "static/media/valo.jpg": "/static/media/valo.554b821ed5a46a233f8e.jpg",
+    "static/media/workout.jpg": "/static/media/workout.036b5d3ec5c0b2969798.jpg",
+    "static/media/fit.jpg": "/static/media/fit.f288dce5ae024df67ffe.jpg",
+    "static/media/code.jpg": "/static/media/code.2c64f83aaa0964d156ae.jpg",
+    "static/media/sunrise.jpg": "/static/media/sunrise.b949cfe3ba70a102f2d5.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.3e40193b.css.map": "/static/css/main.3e40193b.css.map",
+    "main.9f20bd53.js.map": "/static/js/main.9f20bd53.js.map",
+    "787.aa5b4515.chunk.js.map": "/static/js/787.aa5b4515.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e40193b.css",
+    "static/js/main.9f20bd53.js"
+  ]
+}
